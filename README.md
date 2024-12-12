@@ -8,7 +8,7 @@ Welcome to the official repository for the **AI Agentic Systems and Their Workfl
 
 ## **Overview**
 
-This seminar explores the latest advancements in multi-agent systems, artificial intelligence workflows, and their applications in CREWAI (Collaborative Robotic Environments with AI). Below are the descriptions for each session, represented by Jupyter Notebooks, with a focus on the key takeaways from each session.
+This seminar explores the latest advancements in multi-agent systems, artificial intelligence workflows, and their applications using <a href='https://www.crewai.com/' > CREWAI</a>. Below are the descriptions and key takeaways for each session.
 
 ---
 
