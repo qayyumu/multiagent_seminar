@@ -41,7 +41,7 @@ This seminar explores the latest advancements in multi-agent systems, artificial
 ### 4. **Writing Research Papers on Multi-Agent Systems**  
 - **Notebook:** `L4_research_write.ipynb`  <a href="https://colab.research.google.com/github/qayyumu/multiagent_seminar/blob/main/L4_research_write.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Takeaways:**  
-  - Learn how to structure research papers on multi-agent systems.  
+  - Learn how to structure tasks using multi-agent systems.  
   - Develop skills in presenting data, methodologies, and results clearly.  
 
 ---
@@ -78,7 +78,7 @@ Dr. Usman Qayyum
 - 0345-4447-377  
 - 051-5444-4450  
 
-**Register Now:** [Registration Form](https://forms.gle/MhaH1D0rxMba11yS8)
+**Register Now:** [Registration Form](https://forms.gle/MhaH1DorxMba11yS8)
 
 ---
 
