@@ -8,14 +8,14 @@ Welcome to the official repository for the **Agentic AI Systems** seminar.
 ## **Overview**
 
 This seminar explores the latest advancements in multi-agent systems, artificial intelligence workflows, and their applications using <a href='https://www.crewai.com/' > CREWAI</a>. Below are the descriptions and key takeaways for each session. You can use colab directly with github by visiting following link
-- **Colab Github:** `Colab with github` <a href="https://colab.research.google.com/github/qayyumu/multiagent_seminar/blob/main/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
+- **Colab Github:** `all_crewagents.notebooks` <a href="https://colab.research.google.com/github/qayyumu/multiagent_seminar/blob/main/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
  
 
 ---
 
 ## **Sessions**
 
-### 1. **Query to Large Language Models (LLMs)**  
+### 1. **Q/A with Large Language Models (LLMs)**  
 - **Notebook:** `L1_LLM.ipynb` <a href="https://colab.research.google.com/github/qayyumu/multiagent_seminar/blob/main/L1_LLM.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Takeaways:**  
   - Understand the Q/A mechanism to LLMs.  
@@ -23,7 +23,7 @@ This seminar explores the latest advancements in multi-agent systems, artificial
 
 ---
 
-### 2. **Understanding Single-Agent Environments**  
+### 2. **Understanding Single-AI-Agent to Write Blog**  
 - **Notebook:** `L2_SingleAgent.ipynb` <a href="https://colab.research.google.com/github/qayyumu/multiagent_seminar/blob/main/L2_SingleAgent.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Takeaways:**  
   - Grasp the core principles of Crewai framework with single agent.  
@@ -32,7 +32,7 @@ This seminar explores the latest advancements in multi-agent systems, artificial
 
 ---
 
-### 3. **Tools and Techniques for Single-Agent Optimization**  
+### 3. **Single-Agent to use Tools (Internet) for Writting Content**  
 - **Notebook:** `L3_SingleAgent_tool.ipynb`  <a href="https://colab.research.google.com/github/qayyumu/multiagent_seminar/blob/main/L3_SingleAgent_tool.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Takeaways:**  
   - Discover Search tools and techniques applicable to single-agent systems. 
@@ -40,7 +40,7 @@ This seminar explores the latest advancements in multi-agent systems, artificial
 
 ---
 
-### 4. **Writing Research Papers on Multi-Agent Systems**  
+### 4. **Writing Content with Multi-Agent Systems**  
 - **Notebook:** `L4_research_write.ipynb`  <a href="https://colab.research.google.com/github/qayyumu/multiagent_seminar/blob/main/L4_research_write.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Takeaways:**  
   - Learn how to program multi agents and tasks for multi-agent systems.  
@@ -48,7 +48,7 @@ This seminar explores the latest advancements in multi-agent systems, artificial
 
 ---
 
-### 5. **Agent Delegation and Memory in Multi-Agent Systems**  
+### 5. **Agent Delegation and Memory Usage in the Multi-Agent Systems**  
 - **Notebook:** `L5_agent_delegation_mem.ipynb`  <a href="https://colab.research.google.com/github/qayyumu/multiagent_seminar/blob/main/L5_agent_delegation_mem.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Takeaways:**  
   - Understand agent delegation and memory using technique along with tools for agentic system.  
@@ -58,7 +58,7 @@ This seminar explores the latest advancements in multi-agent systems, artificial
 
 ---
 
-### 6. **Hierarchical Structures in Financial Multi-Agent Systems**  
+### 6. **Hierarchical Structures in Financial stock Suggestion for the Multi-Agent Systems**  
 - **Notebook:** `L6_hierarchical_finanical.ipynb`  <a href="https://colab.research.google.com/github/qayyumu/multiagent_seminar/blob/main/L6_hierarchical_finanical.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Takeaways:**  
   - Gain insights into hierarchical approaches to multi-agent systems.  
