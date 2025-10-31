@@ -7,7 +7,7 @@ import os
 load_dotenv()
 
 # Set up API keys
-os.environ["SERPER_API_KEY"] = os.getenv("SERPER_key")
+os.environ["SERPER_API_KEY"] = os.getenv("SERPER_API_KEY")
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 
