@@ -65,29 +65,8 @@ This seminar explores the latest advancements in multi-agent systems, artificial
   - Understand how these structures are applied to financial automation and decision-making.
   - The crew uses the tools (serper and ScrapeWebsite), delegate task among the agents, uses the hierarchical implementation of the agents.   
 
----
-
-## **Seminar Details**
-This repository provides resources, tutorials, and workflows used in the seminar conducted during the 6th International Conference on Robotics and Automation in Industry (ICRAI 2024).
-
-![Seminar Cover](./assets/seminar_cover.jpeg)
-
-- **Date:** December 18, 2024  
-- **Time:** 1530–1630 hrs  
-- **Venue:** NUST College of E&ME, Peshawar Road, Rawalpindi  
-
 ### **Speaker**  
-Dr. Usman Qayyum  
-- Chief AI Officer, Research and Solution Ventures (Resolve)  
+Dr. Usman Qayyum
 
 
-**Register Link:** [Registration Form](https://forms.gle/MhaH1DorxMba11yS8)
-
----
-
-## **License**
-
-This project is licensed under the GPL-3.0 License.
-
----
 
