@@ -98,7 +98,7 @@ harvester_agent = Agent(
 # 4. Orchestrate with a Function
 # ==========================================
 def run_swarm(topic: str):
-    print(f"\n🚀 Deploying Swarm to research: {topic}\n")
+    print(f"\n Deploying Swarm to research: {topic}\n")
 
     # The tasks dynamically accept the user's topic
     task_scout_tech = Task(
@@ -138,11 +138,11 @@ def run_swarm(topic: str):
 # ==========================================
 if __name__ == "__main__":
     # Get the dynamic topic from the user
-    user_topic = input("Enter a topic you want the swarm to research (e.g., 'Artificial Intelligence', 'Sustainable Agriculture', 'Wearable Tech'): ")
+    user_topic = input("Enter a topic you want the swarm to research (e.g., 'AGI', 'Blockchain', 'Decentralized AI', 'Quantum Computing'): ")
     
     final_report = run_swarm(user_topic)
     
     print("\n" + "="*50)
-    print("🐝 SWARM FINAL REPORT 🐝")
+    print("SWARM FINAL REPORT ")
     print("="*50)
     print(final_report)
